@@ -25,7 +25,7 @@ public class DecisionTreeTest {
      */
     @Test
     public void testAssertEqual() {
-        assertEquals(1 + 1, 2);
+        assertEquals(2, 1 + 1);
     }
 
     /**
