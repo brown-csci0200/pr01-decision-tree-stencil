@@ -26,13 +26,13 @@ public class Dataset /* implements IDataset */ {
 //    TODO: Uncomment this once you've completed the constructor!
 //    public String getAttributeToSplitOn() {
 //        switch (this.selectionType) {
-//            case AttributeSelection.ASCENDING_ALPHABETICAL -> {
+//            case ASCENDING_ALPHABETICAL -> {
 //                return this.attributeList.stream().sorted().toList().get(0);
 //            }
-//            case AttributeSelection.DESCENDING_ALPHABETICAL -> {
+//            case DESCENDING_ALPHABETICAL -> {
 //                return this.attributeList.stream().sorted().toList().get(this.attributeList.size() - 1);
 //            }
-//            case AttributeSelection.RANDOM -> {
+//            case RANDOM -> {
 //                // TODO: Implement random attribute selection!
 //            }
 //        }
